@@ -1,7 +1,11 @@
-# University OOP Projects
+<h1 align="center">
+  University OOP Projects
+</h1>
 
 Репозиторий с учебными проектами по **объектно-ориентированному программированию (ООП)**.
 
-## Таски
-- [task 1.16](https://github.com/IngaTishchenko/Object-Oriented-Programming/tree/main/1.16/elevator-sim)  - лифт
-- [task 2.2]() - переводной дурак
+
+**2 курс**
+> [task 1.16](https://github.com/IngaTishchenko/Object-Oriented-Programming/tree/main/1.16/elevator-sim)  - лифт
+>
+>[task 2.2]() - переводной дурак
